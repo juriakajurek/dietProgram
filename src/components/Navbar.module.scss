@@ -1,0 +1,22 @@
+@import "./variables";
+
+.navbar {
+  .navbarBrand {
+    font-weight: 600;
+    font-size: 1rem;
+  }
+  a {
+    font-size: 0.875rem;
+    color: $secondary-color !important;
+  }
+}
+
+.primaryButton {
+  color: $secondary-color !important;
+  background-color: $salmon !important;
+  border-color: $salmon !important;
+  border-radius: 8px;
+  &:hover {
+    opacity: 0.9;
+  }
+}

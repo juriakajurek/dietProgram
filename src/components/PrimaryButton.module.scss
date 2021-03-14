@@ -1,0 +1,11 @@
+@import "./variables";
+
+.primaryButton {
+  color: $secondary-color !important;
+  background-color: $salmon !important;
+  border-color: $salmon !important;
+  border-radius: 8px;
+  &:hover {
+    opacity: 0.9;
+  }
+}

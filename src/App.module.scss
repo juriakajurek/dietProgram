@@ -1,0 +1,17 @@
+@import "./components/variables";
+
+.body {
+  overflow-x: hidden !important;
+  background-image: linear-gradient(
+    183deg,
+    $background-color 90vh,
+    white 90.1vh
+  );
+  @media (max-width: 992px) {
+    background-image: linear-gradient(
+      183deg,
+      $background-color 98vh,
+      white 98vh
+    ) !important;
+  }
+}

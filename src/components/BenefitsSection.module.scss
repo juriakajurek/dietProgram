@@ -1,0 +1,40 @@
+@import "./variables";
+
+.section {
+  height: 60vh;
+  background-color: transparent;
+}
+
+.background {
+  overflow: visible;
+  position: absolute;
+  left: 0;
+  width: 100vw;
+  height: 60vh;
+  background-repeat: repeat-y;
+  background: linear-gradient(178deg, $background-color 60vh, white 60.1vh);
+}
+
+.card {
+  justify-content: space-between;
+  background-color: transparent;
+  h5 {
+    padding-bottom: 1rem;
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    color: $primary-color;
+    span {
+      white-space: pre;
+    }
+  }
+  p {
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.8rem;
+    color: $primary-color;
+    span {
+      white-space: pre;
+    }
+  }
+}
