@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dietProgram/static/css/main.2abeb9cf.chunk.css",
-    "main.js": "/dietProgram/static/js/main.7d60d3e9.chunk.js",
-    "main.js.map": "/dietProgram/static/js/main.7d60d3e9.chunk.js.map",
+    "main.css": "/dietProgram/static/css/main.7f9d2a75.chunk.css",
+    "main.js": "/dietProgram/static/js/main.92064805.chunk.js",
+    "main.js.map": "/dietProgram/static/js/main.92064805.chunk.js.map",
     "runtime-main.js": "/dietProgram/static/js/runtime-main.2c811f77.js",
     "runtime-main.js.map": "/dietProgram/static/js/runtime-main.2c811f77.js.map",
     "static/css/2.ef9168ec.chunk.css": "/dietProgram/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.079fbf97.chunk.js": "/dietProgram/static/js/2.079fbf97.chunk.js",
-    "static/js/2.079fbf97.chunk.js.map": "/dietProgram/static/js/2.079fbf97.chunk.js.map",
+    "static/js/2.bd7b4f03.chunk.js": "/dietProgram/static/js/2.bd7b4f03.chunk.js",
+    "static/js/2.bd7b4f03.chunk.js.map": "/dietProgram/static/js/2.bd7b4f03.chunk.js.map",
     "index.html": "/dietProgram/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/dietProgram/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.2abeb9cf.chunk.css.map": "/dietProgram/static/css/main.2abeb9cf.chunk.css.map",
-    "static/js/2.079fbf97.chunk.js.LICENSE.txt": "/dietProgram/static/js/2.079fbf97.chunk.js.LICENSE.txt",
+    "static/css/main.7f9d2a75.chunk.css.map": "/dietProgram/static/css/main.7f9d2a75.chunk.css.map",
+    "static/js/2.bd7b4f03.chunk.js.LICENSE.txt": "/dietProgram/static/js/2.bd7b4f03.chunk.js.LICENSE.txt",
     "static/media/baza_pacjentow.8bb27508.svg": "/dietProgram/static/media/baza_pacjentow.8bb27508.svg",
     "static/media/diety_i_choroby.dbd06e1d.svg": "/dietProgram/static/media/diety_i_choroby.dbd06e1d.svg",
     "static/media/generacja_i_kalendarz.8fa975f7.svg": "/dietProgram/static/media/generacja_i_kalendarz.8fa975f7.svg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.2c811f77.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.079fbf97.chunk.js",
-    "static/css/main.2abeb9cf.chunk.css",
-    "static/js/main.7d60d3e9.chunk.js"
+    "static/js/2.bd7b4f03.chunk.js",
+    "static/css/main.7f9d2a75.chunk.css",
+    "static/js/main.92064805.chunk.js"
   ]
 }
