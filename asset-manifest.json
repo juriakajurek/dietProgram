@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8846673c.chunk.css",
+    "main.js": "/static/js/main.78578e8d.chunk.js",
+    "main.js.map": "/static/js/main.78578e8d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7322c52.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7322c52.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.079fbf97.chunk.js": "/static/js/2.079fbf97.chunk.js",
+    "static/js/2.079fbf97.chunk.js.map": "/static/js/2.079fbf97.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.8846673c.chunk.css.map": "/static/css/main.8846673c.chunk.css.map",
+    "static/js/2.079fbf97.chunk.js.LICENSE.txt": "/static/js/2.079fbf97.chunk.js.LICENSE.txt",
+    "static/media/baza_pacjentow.8bb27508.svg": "/static/media/baza_pacjentow.8bb27508.svg",
+    "static/media/diety_i_choroby.dbd06e1d.svg": "/static/media/diety_i_choroby.dbd06e1d.svg",
+    "static/media/generacja_i_kalendarz.8fa975f7.svg": "/static/media/generacja_i_kalendarz.8fa975f7.svg",
+    "static/media/jadlospisy.51649646.svg": "/static/media/jadlospisy.51649646.svg",
+    "static/media/karta_pacjenta.9cdb1463.svg": "/static/media/karta_pacjenta.9cdb1463.svg",
+    "static/media/logo.7ffa517d.svg": "/static/media/logo.7ffa517d.svg",
+    "static/media/organizacja_pracy.f68364ea.svg": "/static/media/organizacja_pracy.f68364ea.svg",
+    "static/media/oszczednosc_czasu.ab47efb5.svg": "/static/media/oszczednosc_czasu.ab47efb5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7322c52.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.079fbf97.chunk.js",
+    "static/css/main.8846673c.chunk.css",
+    "static/js/main.78578e8d.chunk.js"
+  ]
+}
