@@ -4,7 +4,9 @@ import MainPage from "./components/pages/MainPage";
 function App() {
   return (
     <div className={appStyles.body}>
-      <MainPage />
+      <div className={appStyles.bg}>
+        <MainPage />
+      </div>
     </div>
   );
 }

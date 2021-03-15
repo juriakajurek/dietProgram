@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <>
       <nav
-        class={`${navbarStyles.navbar} navbar navbar-expand-lg navbar-light bg-transparent my-1 py-4`}
+        class={`${navbarStyles.navbar} navbar navbar-expand-lg navbar-light bg-transparent  py-4`}
       >
         <a
           class={`${navbarStyles.navbarBrand} navbar-brand pl-5 ml-4 `}

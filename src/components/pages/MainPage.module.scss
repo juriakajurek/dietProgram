@@ -42,3 +42,12 @@
 .buttonLink {
   color: $link-color !important;
 }
+
+.background {
+  padding: 0 !important;
+  overflow: visible !important;
+  position: relative;
+  width: 100vw;
+  height: 60vh;
+  background: linear-gradient(178deg, $background-color 60vh, white 60.1vh);
+}

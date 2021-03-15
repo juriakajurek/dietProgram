@@ -37,10 +37,10 @@ function MainPage() {
   return (
     <>
       <Navbar />
-      <Container className={`${styles.topContainer} w-100 h-auto`}>
-        <Row className="h-75">
+      <Container className={`${styles.topContainer} min-vh-100 h-auto`}>
+        <Row className="h-auto">
           <Col
-            className={`${styles.topSection}  d-flex flex-column justify-content-center `}
+            className={`${styles.topSection}  d-flex flex-column justify-content-center my-2`}
             lg
           >
             <h5>
@@ -71,7 +71,7 @@ function MainPage() {
           </Col>
         </Row>
 
-        <Row className="h-75">
+        <Row className="min-vh-75 mt-5 mb-5 pb-5">
           <InfoCard
             right
             imageSrc={diety_i_choroby}
@@ -90,7 +90,7 @@ function MainPage() {
             }
           />
         </Row>
-        <Row className="h-75">
+        <Row className="min-vh-75">
           <InfoCard
             left
             imageSrc={jadlospisy}
@@ -109,7 +109,7 @@ function MainPage() {
             }
           />
         </Row>
-        <Row className="h-75 mb-5 pb-5">
+        <Row className="min-vh-75">
           <InfoCard
             right
             imageSrc={baza_pacjentow}
@@ -127,14 +127,20 @@ function MainPage() {
             }
           />
         </Row>
-        <Row className="h-75">
-          <BenefitSection data={benefits} />
-        </Row>
-        <Row>
-          {" "}
-          <InfoCard />
-        </Row>
       </Container>
+      <Container className={` min-vw-100 p-0 m-0`}>
+        <Container className={`${styles.background} min-vw-100`}>
+          <Row
+            className={`${styles} d-flex  justify-content-center align-items-center min-vh-75 min-vw-100`}
+          >
+            <BenefitSection data={benefits} />
+          </Row>
+        </Container>
+      </Container>
+      <Row>
+        {" "}
+        <InfoCard />
+      </Row>
     </>
   );
 }
