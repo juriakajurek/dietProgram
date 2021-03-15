@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dietProgram/static/css/main.58cd2a4f.chunk.css",
-    "main.js": "/dietProgram/static/js/main.da834867.chunk.js",
-    "main.js.map": "/dietProgram/static/js/main.da834867.chunk.js.map",
+    "main.js": "/dietProgram/static/js/main.1780c398.chunk.js",
+    "main.js.map": "/dietProgram/static/js/main.1780c398.chunk.js.map",
     "runtime-main.js": "/dietProgram/static/js/runtime-main.2c811f77.js",
     "runtime-main.js.map": "/dietProgram/static/js/runtime-main.2c811f77.js.map",
     "static/css/2.ef9168ec.chunk.css": "/dietProgram/static/css/2.ef9168ec.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.45bbb7b0.chunk.js",
     "static/css/main.58cd2a4f.chunk.css",
-    "static/js/main.da834867.chunk.js"
+    "static/js/main.1780c398.chunk.js"
   ]
 }
