@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dietProgram/static/css/main.e2969250.chunk.css",
-    "main.js": "/dietProgram/static/js/main.f5801439.chunk.js",
-    "main.js.map": "/dietProgram/static/js/main.f5801439.chunk.js.map",
+    "main.css": "/dietProgram/static/css/main.0940a752.chunk.css",
+    "main.js": "/dietProgram/static/js/main.eb490532.chunk.js",
+    "main.js.map": "/dietProgram/static/js/main.eb490532.chunk.js.map",
     "runtime-main.js": "/dietProgram/static/js/runtime-main.2c811f77.js",
     "runtime-main.js.map": "/dietProgram/static/js/runtime-main.2c811f77.js.map",
     "static/css/2.ef9168ec.chunk.css": "/dietProgram/static/css/2.ef9168ec.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.45bbb7b0.chunk.js.map": "/dietProgram/static/js/2.45bbb7b0.chunk.js.map",
     "index.html": "/dietProgram/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/dietProgram/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.e2969250.chunk.css.map": "/dietProgram/static/css/main.e2969250.chunk.css.map",
+    "static/css/main.0940a752.chunk.css.map": "/dietProgram/static/css/main.0940a752.chunk.css.map",
     "static/js/2.45bbb7b0.chunk.js.LICENSE.txt": "/dietProgram/static/js/2.45bbb7b0.chunk.js.LICENSE.txt",
     "static/media/baza_pacjentow.8bb27508.svg": "/dietProgram/static/media/baza_pacjentow.8bb27508.svg",
     "static/media/diety_i_choroby.dbd06e1d.svg": "/dietProgram/static/media/diety_i_choroby.dbd06e1d.svg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.2c811f77.js",
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.45bbb7b0.chunk.js",
-    "static/css/main.e2969250.chunk.css",
-    "static/js/main.f5801439.chunk.js"
+    "static/css/main.0940a752.chunk.css",
+    "static/js/main.eb490532.chunk.js"
   ]
 }
