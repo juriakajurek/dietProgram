@@ -1,1 +1,1 @@
-[https://juriakajurek.github.io/dietProgram/](demo page on github)
+[Demo page on github](https://juriakajurek.github.io/dietProgram/)
