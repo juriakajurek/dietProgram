@@ -37,10 +37,10 @@ function MainPage() {
   return (
     <>
       <Navbar />
-      <Container className={`${styles.topContainer} min-vh-100 h-auto`}>
+      <Container className={`${styles.topContainer} min-vh-100 h-auto `}>
         <Row className="h-auto">
           <Col
-            className={`${styles.topSection}  d-flex flex-column justify-content-center my-2`}
+            className={`${styles.topSection}  d-flex flex-column justify-content-center `}
             lg
           >
             <h5>
@@ -60,10 +60,10 @@ function MainPage() {
               </Button>
             </Container>
           </Col>
-          <Col lg className={`${styles.topSection}   `}>
+          <Col lg className={`${styles.topSection} `}>
             <Media className={styles.imageContainer}>
               <Image
-                className=" "
+                className=""
                 src={generacja_i_kalendarz}
                 alt="Generacja i kalendarz"
               />
@@ -128,19 +128,24 @@ function MainPage() {
           />
         </Row>
       </Container>
-      <Container className={` min-vw-100 p-0 m-0`}>
-        <Container className={`${styles.background} min-vw-100`}>
+
+      <Container
+        className={`${styles.benefitsContainer} min-vw-100 h-auto p-0 m-0 `}
+      >
+        <Container className={`${styles.background} m-0 p-0 min-vw-100 `}>
           <Row
-            className={`${styles} d-flex  justify-content-center align-items-center min-vh-75 min-vw-100`}
+            className={` d-flex  justify-content-center align-items-center min-vw-100 m-0 p-0`}
           >
             <BenefitSection data={benefits} />
           </Row>
         </Container>
       </Container>
-      <Row>
-        {" "}
-        <InfoCard />
-      </Row>
+
+      <Container className={`${styles.benefitsContainer} min-vw-100  `}>
+        <Row>
+          <InfoCard />
+        </Row>
+      </Container>
     </>
   );
 }

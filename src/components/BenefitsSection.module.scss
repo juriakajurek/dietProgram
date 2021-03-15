@@ -1,11 +1,10 @@
 @import "./variables";
 
 .section {
+  margin: 0;
 }
 
 .card {
-  // justify-content: space-between;
-  // background-color: transparent;
   text-align: center;
   h5 {
     padding-bottom: 1rem;

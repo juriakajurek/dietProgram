@@ -2,14 +2,11 @@
 
 .topContainer {
   color: $primary-color;
-  height: 80vh !important;
+  height: auto;
 }
 
 .topSection {
-  display: block;
   min-height: 80vh !important;
-  height: 80vh !important;
-  justify-content: space-between;
   h5 {
     font-weight: 800;
     font-size: 2.5rem;
@@ -27,6 +24,15 @@
   }
 }
 
+.buttonLink {
+  color: $link-color !important;
+}
+
+.background {
+  background: linear-gradient(178deg, $background-color 90%, white 90.1%);
+  min-height: 75vh;
+}
+
 .imageContainer {
   height: 100%;
   max-width: 40vw;
@@ -37,17 +43,4 @@
     left: 0;
     top: 1rem;
   }
-}
-
-.buttonLink {
-  color: $link-color !important;
-}
-
-.background {
-  padding: 0 !important;
-  overflow: visible !important;
-  position: relative;
-  width: 100vw;
-  height: 60vh;
-  background: linear-gradient(178deg, $background-color 60vh, white 60.1vh);
 }

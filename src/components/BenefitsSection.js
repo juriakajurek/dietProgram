@@ -5,9 +5,8 @@ function BenefitsSection(props) {
   return (
     <>
       <Row
-        className={`${styles.section} min-vw-75 h-auto my-5 d-flex flex-row align-items-center`}
+        className={`${styles.section} min-vw-75 h-auto m-5 d-flex flex-row align-items-center`}
       >
-        {/* <div className={` m-0 p-0`}></div> */}
         {props.data.map((benefit) => {
           return (
             <Col
